@@ -14,3 +14,7 @@ The best result of the experiment was achieved by DenseNet121 with 87.24 % kappa
 
 
 Keywords: Diabetic Retinopathy, Fundus Images, Convolution Neural Network(CNN), Contrast Limited Adaptive Histogram Equalization(CLAHE), Vgg16, Densenet121, ResNet50.
+
+
+
+Jupyter Notebook : DR_EDA.ipynb / DR_Model-3.ipynb
